@@ -135,3 +135,17 @@ exports.getAllRating=async(req,res) =>{
         });
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
